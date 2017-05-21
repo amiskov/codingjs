@@ -1,1 +1,1 @@
-# Exercises from [CodingJS](https://the-winter.github.io/codingjs) with notes
+# Exercises from [CodingJS](https://the-winter.github.io/codingjs)
